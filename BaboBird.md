@@ -1,5 +1,5 @@
 ### Babo's Bird
-## goolooloo
+## gooloolooloo
 * blue body
 * three hair
 * big eyes
